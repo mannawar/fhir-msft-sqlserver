@@ -1,0 +1,6 @@
+@NetCrudApp_HostAddress = http://localhost:5226
+
+GET {{NetCrudApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
