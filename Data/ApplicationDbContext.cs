@@ -12,7 +12,6 @@ namespace NetCrudApp.Data
    
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<PatientEntity>().Ignore(p => p.Base64BinaryObjectValue);
             base.OnModelCreating(modelBuilder);
         }
     }

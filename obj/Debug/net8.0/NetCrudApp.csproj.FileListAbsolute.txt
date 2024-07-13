@@ -141,3 +141,4 @@ C:\Users\faisa\OneDrive\Desktop\Mannawar\miscellaneous\fhir\netcrudapp\NetCrudAp
 C:\Users\faisa\OneDrive\Desktop\Mannawar\miscellaneous\fhir\netcrudapp\NetCrudApp\NetCrudApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\faisa\OneDrive\Desktop\Mannawar\miscellaneous\fhir\netcrudapp\NetCrudApp\NetCrudApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\faisa\OneDrive\Desktop\Mannawar\miscellaneous\fhir\netcrudapp\NetCrudApp\NetCrudApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\faisa\OneDrive\Desktop\Mannawar\miscellaneous\fhir\netcrudapp\NetCrudApp\NetCrudApp\obj\Debug\net8.0\NetCrudApp.sourcelink.json
